@@ -1,0 +1,116 @@
+#title{
+  background-color: #6495ED
+
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-family:"bold";
+}
+.container-fluid{
+  padding: 3% 15%
+}
+h1{
+  color: white
+  font-family:sans-serif;
+  font-style: bold;
+  font-weight:bold;
+  font-size: 3.5rem
+  line-height:1.5
+  font-family: 'Montserrat', sans-serif;
+  font-family:"bold";
+
+}
+
+.navbar-brand{
+  font-style: italic;
+  font-size: 2rem
+
+}
+
+.navbar{
+  padding-bottom: 4.5rem
+
+}
+.nav-item{
+  padding:0 18px
+
+}
+
+.Download-Button{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:"bold";
+  margin:5% 3% 5% 0
+}
+
+.title-image{
+
+}
+
+#features{
+  padding: 7% 15%
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%
+}
+h3{
+  font-family: 'Montserrat',;
+  font-weight: bolder;
+  padding-top: 3%
+}
+p{
+  color: grey
+}
+.icon{
+  margin-bottom: 2rem
+
+}
+
+#testimonials{
+  text-align:center;
+  background-color:  black;
+  color:#fff;
+  font-family: 'Montserrat', sans-serif;
+  font-family:"bold";
+
+}
+
+.carousel-item{
+  padding: 7% 15%
+
+}
+#cta{
+   text-align: center;
+    background-color: #6495ED;
+    color: #fff;
+    padding: 7% 15%
+    ;
+
+}
+
+#footer{
+  background-color: #123456
+}
+.footer_bio {
+  color: #fff;
+  font-family: "Montserrat";
+  line-height: 2.5;
+  font-size: 80%;
+  margin: 32px 0 0 0;
+}
+
+.social_img {
+  height: 35px;
+  width: 35px;
+  margin: 10px 20px 10px 20px;
+}
+
+.social_img:hover {
+  background-color: white;
+  transition: width 2s height 2s;
+}
+
+#pricing{
+  padding:  7% 15%
+}
